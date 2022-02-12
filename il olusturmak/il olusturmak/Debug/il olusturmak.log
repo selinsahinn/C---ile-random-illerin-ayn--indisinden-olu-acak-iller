@@ -1,0 +1,6 @@
+﻿  il olusturmak.cpp
+C:\Users\selin\source\repos\il olusturmak\il olusturmak\il olusturmak.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\selin\source\repos\il olusturmak\il olusturmak\il olusturmak.cpp(21,15): warning C4018: '>': signed/unsigned mismatch
+C:\Users\selin\source\repos\il olusturmak\il olusturmak\il olusturmak.cpp(26,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\selin\source\repos\il olusturmak\il olusturmak\il olusturmak.cpp(51,23): warning C4018: '>': signed/unsigned mismatch
+  il olusturmak.vcxproj -> C:\Users\selin\source\repos\il olusturmak\Debug\il olusturmak.exe
